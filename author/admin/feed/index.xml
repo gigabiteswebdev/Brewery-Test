@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; KoalaClean</title>
+	<atom:link href="https://gigabiteswebdev.github.io/Brewery-Test/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://gigabiteswebdev.github.io/Brewery-Test/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 19 Apr 2023 23:04:41 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Another sample post &#8211; perhaps an announcement</title>
+		<link>https://gigabiteswebdev.github.io/Brewery-Test/2023/04/19/another-sample-post-perhaps-an-announcement/</link>
+					<comments>https://gigabiteswebdev.github.io/Brewery-Test/2023/04/19/another-sample-post-perhaps-an-announcement/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 19 Apr 2023 23:04:15 +0000</pubDate>
+				<category><![CDATA[Announcements]]></category>
+		<guid isPermaLink="false">https://gigabiteswebdev.github.io/Brewery-Test/?p=427</guid>
+
+					<description><![CDATA[We are releasing three new beers!]]></description>
+										<content:encoded><![CDATA[<p style="text-align: center;">We are releasing three new beers!</p>
+<p><img decoding="async" class="alignnone size-medium wp-image-390" src="https://gigabiteswebdev.github.io/Brewery-Test/wp-content/uploads/2023/04/pexels-elevate-1267293-640x953.jpg" alt="" width="640" height="953" srcset="https://gigabiteswebdev.github.io/Brewery-Test/wp-content/uploads/2023/04/pexels-elevate-1267293-640x953.jpg 640w, https://gigabiteswebdev.github.io/Brewery-Test/wp-content/uploads/2023/04/pexels-elevate-1267293-1280x1906.jpg 1280w, https://gigabiteswebdev.github.io/Brewery-Test/wp-content/uploads/2023/04/pexels-elevate-1267293-768x1144.jpg 768w, https://gigabiteswebdev.github.io/Brewery-Test/wp-content/uploads/2023/04/pexels-elevate-1267293-1031x1536.jpg 1031w, https://gigabiteswebdev.github.io/Brewery-Test/wp-content/uploads/2023/04/pexels-elevate-1267293-1375x2048.jpg 1375w, https://gigabiteswebdev.github.io/Brewery-Test/wp-content/uploads/2023/04/pexels-elevate-1267293-510x759.jpg 510w, https://gigabiteswebdev.github.io/Brewery-Test/wp-content/uploads/2023/04/pexels-elevate-1267293-scaled.jpg 1719w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gigabiteswebdev.github.io/Brewery-Test/2023/04/19/another-sample-post-perhaps-an-announcement/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>This is a sample post/event.</title>
+		<link>https://gigabiteswebdev.github.io/Brewery-Test/2023/04/19/this-is-a-sample-post-event/</link>
+					<comments>https://gigabiteswebdev.github.io/Brewery-Test/2023/04/19/this-is-a-sample-post-event/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 19 Apr 2023 23:03:34 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<guid isPermaLink="false">https://gigabiteswebdev.github.io/Brewery-Test/?p=423</guid>
+
+					<description><![CDATA[Add anything you need here, including images.]]></description>
+										<content:encoded><![CDATA[<p style="text-align: center;">Add anything you need here, including images.</p>
+<p><img decoding="async" class="alignnone size-medium wp-image-411" src="https://gigabiteswebdev.github.io/Brewery-Test/wp-content/uploads/2023/04/pexels-elevate-1267696-640x457.jpg" alt="" width="640" height="457" srcset="https://gigabiteswebdev.github.io/Brewery-Test/wp-content/uploads/2023/04/pexels-elevate-1267696-640x457.jpg 640w, https://gigabiteswebdev.github.io/Brewery-Test/wp-content/uploads/2023/04/pexels-elevate-1267696-1280x914.jpg 1280w, https://gigabiteswebdev.github.io/Brewery-Test/wp-content/uploads/2023/04/pexels-elevate-1267696-768x549.jpg 768w, https://gigabiteswebdev.github.io/Brewery-Test/wp-content/uploads/2023/04/pexels-elevate-1267696-1536x1097.jpg 1536w, https://gigabiteswebdev.github.io/Brewery-Test/wp-content/uploads/2023/04/pexels-elevate-1267696-2048x1463.jpg 2048w, https://gigabiteswebdev.github.io/Brewery-Test/wp-content/uploads/2023/04/pexels-elevate-1267696-510x364.jpg 510w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gigabiteswebdev.github.io/Brewery-Test/2023/04/19/this-is-a-sample-post-event/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
